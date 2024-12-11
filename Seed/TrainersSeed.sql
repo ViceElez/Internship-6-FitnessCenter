@@ -998,3 +998,4 @@ insert into Trainers (TrainerId, CenterIdReference, CountryIdReference, Name, La
 insert into Trainers (TrainerId, CenterIdReference, CountryIdReference, Name, LastName, DateOfBirth, Gender, TypeOfTrainer) values (998, '160', '203', 'Stéphanie', 'Gisborne', '11/14/1988', 'Ostalo', 'Pomoćni trener');
 insert into Trainers (TrainerId, CenterIdReference, CountryIdReference, Name, LastName, DateOfBirth, Gender, TypeOfTrainer) values (999, '6', '254', 'Maëlla', 'Balam', '3/25/2022', 'Muško', 'Pomoćni trener');
 insert into Trainers (TrainerId, CenterIdReference, CountryIdReference, Name, LastName, DateOfBirth, Gender, TypeOfTrainer) values (1000, '789', '318', 'Maï', 'Getcliffe', '1/1/2023', 'Ostalo', 'Glavni trener');
+insert into Trainers (TrainerId, CenterIdReference, CountryIdReference, Name, LastName, DateOfBirth, Gender, TypeOfTrainer) values (1001, '789', '318', 'Tonci', 'Getcliffe', '1/1/2023', 'Ostalo', 'Glavni trener');
